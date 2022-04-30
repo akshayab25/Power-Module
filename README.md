@@ -1,0 +1,2 @@
+# Power-Module
+A boost converter is known as step up converter which steps up voltage from its input to its output load. Most of the electrical power circuit designers will choose the boost converter because the output voltage is always high when compared to source voltage. Control method plays an important role in the dynamic performance of switching DC-DC converters. To improve dynamic response, a PWM control method for switching DC-DC converters is proposed. The IC design of this type of DC-DC converter is this project's field of interest.
